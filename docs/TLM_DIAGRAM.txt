@@ -1,0 +1,52 @@
+TLM Architecture Diagram
+=========================
+
+                ┌───────────────────────────┐
+                │        Input Text         │
+                │   "yhwojxab njyma..."     │
+                └────────────┬──────────────┘
+                             │  (tokenize chars)
+                             ▼
+                ┌───────────────────────────┐
+                │    Symbol Encoder         │
+                │  chars → indices (0..K)   │
+                └────────────┬──────────────┘
+                             │  (discrete states)
+                             ▼
+        ┌────────────────────────────────────────────┐
+        │         TLM Energy Graph (Factor Graph)    │
+        │                                            │
+        │   Nodes: one per position (x₁..xₙ)         │
+        │   Factors: local interactions (bigrams,    │
+        │            trigrams, position terms, etc.) │
+        │                                            │
+        │   E(x) = Σ_factor ψ_factor(x_neighbors)   │
+        └────────────┬───────────────────────────────┘
+                     │  (defines energy landscape)
+                     │
+         Gibbs / Block Sampling Loop
+                     │
+        ┌────────────▼───────────────────────────────┐
+        │        Thermodynamic Sampler (Gibbs)       │
+        │  • repeatedly resample variables in blocks │
+        │  • accept moves that lower energy          │
+        │  • settles into low-energy configurations  │
+        └────────────┬───────────────────────────────┘
+                     │  (sampled states)
+                     ▼
+                ┌───────────────────────────┐
+                │  Sampled States → Text     │
+                │ indices → characters       │
+                └────────────┬──────────────┘
+                             │
+                             ▼
+                ┌───────────────────────────┐
+                │   Generated Sequence       │
+                │  structured, low-energy    │
+                │  text-like patterns       │
+                └───────────────────────────┘
+
+Training: Adjust factor weights so that
+  • real sequences = low energy
+  • random sequences = higher energy
+
