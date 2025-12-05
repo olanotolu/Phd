@@ -1,0 +1,390 @@
+hi i want to make a reservation for two at 7pm
+sure what time would you like
+i need a table for three tonight
+your table for two at 7pm is confirmed
+can i book a table for four tomorrow at 8pm
+yes i can help what time tomorrow
+i want a reservation at 6pm for two people
+your reservation for four at 8pm is set
+hello i would like to reserve a table for two at 5pm
+we have availability at 5pm for two your booking is confirmed
+hi do you have a table tonight around 7pm
+we can do 7pm for two please confirm
+yes confirm for two at 7pm
+your 7pm table is confirmed enjoy your dinner
+can i get a reservation for three on friday at 6pm
+we can book friday at 6pm for three should i confirm
+please confirm the friday 6pm table for three
+your table for three on friday at 6pm has been confirmed
+i need a table for six on saturday night
+we can offer 8pm for six is that ok
+yes 8pm for six works please confirm
+your saturday 8pm reservation for six is confirmed
+hello i need a reservation for tonight for four
+we have space at 7pm for four shall i book it
+book it for 7pm for four
+your booking for four at 7pm tonight is confirmed
+can i book a table for one at 6pm
+we have 6pm available for one your table is confirmed
+hello i want to reserve a table for my family of five
+we have 7pm or 8pm for five which time do you prefer
+7pm works book it
+your table for five at 7pm is confirmed
+do you have any availability tonight for two
+we can do 6pm or 8pm which one should i reserve
+please reserve the 8pm table for two
+your 8pm table for two tonight is confirmed
+i need a reservation for lunch at 1pm today
+we have 1pm available for two is that ok
+yes book the 1pm table for two
+your lunch reservation at 1pm for two is confirmed
+hi can i get a table outside at 7pm for two
+we have outside seating at 7pm for two confirming now
+your outside table at 7pm for two is confirmed
+hello i want to make a dinner booking for three people
+we can offer 6pm or 7pm for three what do you prefer
+please book the 7pm slot
+your table for three at 7pm is confirmed
+can you book me a table for two on sunday evening
+sunday 6pm or 7pm is available for two which time
+reserve the 6pm sunday table for two
+your sunday 6pm reservation for two is confirmed
+hi can i get a reservation for friday night for two
+we have 7pm or 9pm for two which one works
+7pm works please confirm
+your friday 7pm table for two is confirmed
+i would like to make a reservation for eight people
+we have 8pm for eight is that ok
+yes confirm for eight at 8pm
+your reservation for eight at 8pm is confirmed
+do you have a table for two in about an hour
+we have availability at 6pm for two shall i reserve
+reserve 6pm for two
+your 6pm table for two is confirmed
+hi i need a table for five at 7pm tomorrow
+we can book 7pm for five tomorrow do you want to confirm
+yes confirm
+your 7pm table for five is confirmed for tomorrow
+hello can i book a birthday dinner for four at 8pm
+yes 8pm for four is available confirming now
+your birthday dinner table for four at 8pm is confirmed
+i want to make a reservation for wednesday night at 7pm
+we can book 7pm for two on wednesday confirming
+your wednesday 7pm reservation is confirmed
+can you reserve a table for two at noon
+we have noon available your table for two is confirmed
+i need a table for six around 5pm tonight
+we can offer 5pm for six shall i confirm
+yes confirm the 5pm reservation for six
+your 5pm reservation for six is confirmed
+hi do you have outdoor seating for two at 6pm
+we have outdoor seating at 6pm confirming now
+your 6pm outdoor table for two is confirmed
+hello i want to book a table for three at 8pm
+we have 8pm for three confirming
+your table for three at 8pm is confirmed
+can i change my reservation to 7pm for two
+your reservation has been updated to 7pm for two
+i want to cancel my booking for tonight
+your booking has been cancelled
+can you book dinner for five at 7pm
+we can book 7pm for five confirming now
+your 7pm table for five is confirmed
+hello can i get a table for two at 5pm today
+we can book 5pm for two confirming now
+your 5pm table for two today is confirmed
+hi i need a reservation for three for lunch
+we have 1pm or 2pm for three which time
+1pm book it
+your 1pm lunch table for three is confirmed
+can i get a reservation for one around 7pm
+we have 7pm for one confirming now
+your 7pm table for one is confirmed
+hello do you have availability for four tonight
+we can book 8pm for four confirming now
+your 8pm table for four tonight is confirmed
+i want a reservation at 6pm for two people
+we have 6pm for two confirming
+your 6pm reservation for two is confirmed
+can you book a table for three at 7pm tomorrow
+we can book 7pm for three shall i confirm
+confirm it
+your table for three at 7pm tomorrow is confirmed
+hi i want to reserve a booth for two at 8pm
+we have a booth at 8pm confirming your table now
+your booth reservation for two at 8pm is confirmed
+i would like to book a quiet table for four at 7pm
+we have a quiet table at 7pm confirming now
+your quiet table for four at 7pm is confirmed
+can i request a window seat for two at 6pm
+we can offer a window table at 6pm confirming
+your 6pm window table for two is confirmed
+hello i want to make a reservation for mother day brunch
+we have 11am for two should i confirm
+confirm the 11am brunch table
+your 11am brunch reservation is confirmed
+hi can i reserve a table for two with a high chair
+we have space at 6pm confirming your table now
+your 6pm table for two with a high chair is confirmed
+can you book dinner for two at 8pm next tuesday
+we can do 8pm next tuesday confirming
+your 8pm dinner for two next tuesday is confirmed
+hello can you book me a table for seven tonight
+we can book 7pm for seven confirming now
+your table for seven at 7pm tonight is confirmed
+i want to make a quick reservation for two
+what time would you like
+6pm book it
+your reservation at 6pm for two is confirmed
+can i book a table for six next friday at 8pm
+we have 8pm for six confirming now
+your reservation for six at 8pm next friday is confirmed
+hi i need a reservation for brunch at noon for three
+we can do noon for three confirming
+your noon brunch table for three is confirmed
+hello can you get me a table for two on saturday at 5pm
+we have 5pm for two confirming now
+your saturday 5pm table for two is confirmed
+i want a reservation for four on monday night
+we can book 7pm for four on monday confirming
+your monday 7pm reservation for four is confirmed
+hi i want to book lunch at 1pm for four
+we have 1pm for four confirming
+your 1pm lunch table for four is confirmed
+can you get me a table for two at 9pm
+we have 9pm for two confirming now
+your 9pm table for two is confirmed
+i want to make a reservation for two at 7pm under my name
+we have 7pm for two confirming your name now
+your 7pm reservation for two is confirmed
+hello i need a table for five near the bar
+we have 7pm near the bar confirming
+your bar table for five at 7pm is confirmed
+can i book a table for two tonight around 6pm
+we have 6pm for two confirming
+your 6pm table for two is confirmed
+i want to book a reservation for eleven people
+we have 8pm for eleven confirming
+your table for eleven at 8pm is confirmed
+can you assist me with a reservation for three tonight
+we have 7pm for three confirming
+your 7pm reservation for three is confirmed
+hi can i reserve a table for two for anniversary dinner
+we have 8pm for two confirming
+your anniversary table for two at 8pm is confirmed
+hello i need dinner for five at 7pm
+we can do 7pm for five confirming now
+your 7pm dinner for five is confirmed
+can i book a vegan friendly table for two at 6pm
+we have 6pm for two confirming
+your vegan friendly table for two at 6pm is confirmed
+do you have a table for three near a window
+we have 6pm near a window confirming now
+your 6pm window table for three is confirmed
+can i get a patio table for four at 7pm
+we have patio seating at 7pm confirming
+your patio table for four at 7pm is confirmed
+hello can you book me an early dinner for two at 5pm
+5pm for two is available confirming now
+your early dinner table for two at 5pm is confirmed
+i want to move my reservation to 8pm for two
+your reservation has been updated to 8pm for two
+hi i want to cancel my 6pm table for two
+your 6pm reservation for two is cancelled
+can you get a private dining room for ten at 7pm
+we have 7pm available confirming now
+your private dining room for ten at 7pm is confirmed
+can i book a table for six at 9pm tonight
+we can do 9pm for six confirming now
+your 9pm table for six tonight is confirmed
+hello i want dinner for two around 6pm
+we have 6pm available confirming
+your dinner table for two at 6pm is confirmed
+i need a reservation for four tomorrow at 5pm
+we can confirm 5pm tomorrow for four
+your reservation for four at 5pm tomorrow is confirmed
+can you book me a table for two at 3pm
+we have 3pm for two confirming
+your 3pm table for two is confirmed
+hi i want to make a reservation for seven people at 8pm
+we can book 8pm for seven confirming
+your 8pm table for seven is confirmed
+i need brunch reservations for six on sunday
+we have 11am for six shall i confirm
+yes confirm the 11am table
+your sunday 11am table for six is confirmed
+hello do you have a table for one available now
+we can seat you at 5pm confirming now
+your 5pm table for one is confirmed
+can i get a window seat for two on friday
+we have 7pm window seating for two should i book it
+book it
+your window table for two at 7pm friday is confirmed
+i want to book a table for four at noon
+we can do noon for four confirming
+your noon table for four is confirmed
+can you help me reserve dinner for two at 7pm
+7pm for two is available confirming now
+your dinner reservation for two at 7pm is confirmed
+hi i want a booth for five at 8pm tonight
+we can offer a booth at 8pm confirming
+your booth reservation for five at 8pm is confirmed
+do you have space for three at 6pm today
+yes we can seat three at 6pm confirming
+your 6pm table for three is confirmed
+hello can i reserve a table for two on saturday at noon
+we have noon for two confirming
+your saturday noon table for two is confirmed
+can i get a reservation for six in the evening
+we can offer 7pm for six shall i confirm
+confirm 7pm
+your evening 7pm table for six is confirmed
+i want to book a high top for two at 5pm
+we have 5pm high top availability confirming now
+your high top table for two at 5pm is confirmed
+hi i need a birthday table for eight at 7pm friday
+we can book 7pm for eight confirming
+your friday birthday table for eight at 7pm is confirmed
+can i reserve a vegan table for two at 7pm
+we can do 7pm for two confirming your vegan table
+your vegan table for two at 7pm is confirmed
+i want to update my reservation to 6pm
+your reservation has been updated to 6pm
+i want to add one more person to my table
+your reservation has been updated for the new party size
+can you cancel my dinner for four tonight
+your dinner reservation for four tonight is cancelled
+hello i want a reservation for two at 4pm
+we have 4pm availability confirming
+your 4pm table for two is confirmed
+i need a table for six on monday at 8pm
+we can book 8pm on monday confirming now
+your monday 8pm table for six is confirmed
+hi do you have any outdoor tables available at 7pm
+we have outdoor seating at 7pm confirming now
+your outdoor table at 7pm is confirmed
+can you book a quiet table for two at 5pm today
+we can do 5pm confirming
+your quiet table for two at 5pm is confirmed
+hello i want a reservation for a large group of ten
+we can offer 7pm for ten confirming now
+your large group table for ten at 7pm is confirmed
+can i book a small table for one at noon
+we can do noon confirming
+your noon table for one is confirmed
+do you have a table for two that is wheelchair accessible
+we can provide wheelchair accessible seating confirming now
+your accessible table for two is confirmed
+hi i want to book a table for two at 4pm saturday
+we can book 4pm on saturday confirming now
+your saturday 4pm table for two is confirmed
+can you reserve a patio table for three tomorrow at 6pm
+we have 6pm patio seating confirming
+your patio table for three at 6pm tomorrow is confirmed
+i want an early dinner reservation for four at 5pm
+we can book 5pm for four confirming
+your early dinner table for four at 5pm is confirmed
+hello i need a reservation for a meeting room
+we can offer 3pm confirming the meeting room now
+your meeting room reservation at 3pm is confirmed
+can i get a booth for two at 7pm tonight
+we have a booth at 7pm confirming
+your booth for two at 7pm is confirmed
+i want a table for four with no seafood nearby
+we have 6pm for four confirming
+your 6pm table for four is confirmed
+hi can you book me a family table for six at 6pm sunday
+we can do 6pm sunday confirming now
+your sunday 6pm family table for six is confirmed
+hello i want to check availability for two at 7pm
+we have availability at 7pm confirming
+your 7pm table for two is confirmed
+can you move my reservation from 6pm to 7pm
+your reservation has been updated to 7pm
+i want to downgrade my reservation from five to three
+your reservation has been updated to three guests
+can i upgrade my table to seven people
+your reservation has been updated for seven people
+i want to change my reservation date to tomorrow
+your reservation date has been updated to tomorrow
+can you reserve dinner for two next monday at 8pm
+we can book 8pm next monday confirming
+your monday 8pm dinner for two is confirmed
+hello i need a table for seven tonight at 8pm
+we have 8pm available confirming
+your 8pm table for seven tonight is confirmed
+hi do you have outside tables for one at 6pm
+we have 6pm outside confirming
+your outside 6pm table for one is confirmed
+can i request a quiet booth for three at 7pm
+we can arrange a quiet booth confirming
+your quiet booth for three at 7pm is confirmed
+i want to make a reservation for four at 2pm
+we can do 2pm confirming
+your 2pm table for four is confirmed
+hello can i reserve a corner table for two
+we have a corner table at 6pm confirming now
+your corner table for two is confirmed
+can you book a table for three near the bar at 6pm
+we have bar seating at 6pm confirming
+your bar seating for three at 6pm is confirmed
+i want to make a reservation for brunch tomorrow
+we have 11am for two confirming
+your brunch table for two at 11am is confirmed
+hi i need a reservation for one at 5pm tonight
+we can offer 5pm confirming
+your 5pm table for one is confirmed
+can you book a late dinner for five at 9pm
+we have 9pm for five confirming
+your 9pm dinner for five is confirmed
+i want to move my reservation earlier to 4pm
+your reservation has been updated to 4pm
+hello i want a reservation for four tonight please
+we have 7pm for four confirming
+your 7pm table for four tonight is confirmed
+can i get a vegan friendly table for two at noon
+we can offer noon confirming
+your noon vegan table for two is confirmed
+i would like to book dinner for ten at 7pm
+we have 7pm available for ten confirming
+your dinner for ten at 7pm is confirmed
+hi i need a reservation for three at 3pm
+we can do 3pm confirming
+your 3pm table for three is confirmed
+hello can you reserve a patio seat for two this evening
+we can offer 6pm confirming
+your patio seat for two at 6pm is confirmed
+i want to change my reservation from two to four
+your reservation has been updated to four guests
+can you cancel my booking for tomorrow
+your reservation for tomorrow has been cancelled
+i want a reservation for two at 7pm under my name john
+we have 7pm for two confirming now
+your 7pm reservation for two under john is confirmed
+can you book a celebration dinner for six at 8pm
+we have 8pm for six confirming
+your celebration dinner for six at 8pm is confirmed
+hi i need a quiet space for dinner at 5pm for two
+we can do 5pm confirming
+your quiet dinner table for two at 5pm is confirmed
+hello do you have a table for five now
+we can offer 6pm confirming
+your 6pm table for five is confirmed
+can i reserve a seat at the bar for one at 7pm
+we can do 7pm at the bar confirming
+your bar seat for one at 7pm is confirmed
+i want to schedule a dinner meeting for three at 6pm
+we can book 6pm confirming
+your dinner meeting for three at 6pm is confirmed
+hi i need a reservation for lunch at 12pm for four
+we have 12pm for four confirming now
+your 12pm lunch table for four is confirmed
+hello i want a table for two by the window tonight
+we can provide window seating at 7pm confirming
+your window table for two at 7pm tonight is confirmed
+can you get me a table for nine at 8pm
+we have 8pm availability confirming
+your 8pm table for nine is confirmed
+i want to confirm my reservation for five at 7pm
+your reservation for five at 7pm is confirmed
+

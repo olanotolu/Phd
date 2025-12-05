@@ -1,0 +1,500 @@
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent party size customer three agent your booking is set agent see you at pm david
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many guests customer five agent your booking is set agent see you at pm lisa
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent table for how many customer four agent your reservation is confirmed agent see you at pm john
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent party size customer five agent your reservation is confirmed agent see you at pm anna
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many people customer three people agent i ve booked your table agent see you at pm john
+customer hello could i make a booking agent sure agent what time do you prefer customer pm agent number of people customer three agent your reservation is confirmed agent see you at pm lisa
+customer hi i d like to make a reservation agent sure agent what time do you prefer customer pm agent party size customer two agent i ve booked your table agent see you at pm sarah
+customer hello can i book a table agent sure agent when would you like to come customer pm agent how many people customer two agent your booking is set agent see you at pm john
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent number of people customer three people agent i ve booked your table agent see you at pm mike
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent how many people customer five agent i ve booked your table agent see you at pm emily
+customer hello could i make a booking agent sure agent what time are you looking for customer pm agent table for how many customer five agent your reservation is confirmed agent see you at pm david
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent how many people customer two people agent i ve booked your table agent see you at pm sarah
+customer hello could i make a booking agent sure agent what time would you like customer pm agent how many people customer two people agent i ve booked your table agent see you at pm david
+customer good evening i need a reservation agent sure agent what time would you like customer pm agent how many people customer six agent your reservation is confirmed agent see you at pm david
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent number of people customer three people agent reservation confirmed agent see you at pm anna
+customer hello could i make a booking agent sure agent what time would you like customer pm agent how many guests customer three agent your booking is set agent see you at pm anna
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent number of people customer four agent i ve booked your table agent see you at pm mike
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent table for how many customer three people agent i ve booked your table agent see you at pm john
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent how many people customer four agent i ve booked your table agent see you at pm emily
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent table for how many customer three agent your reservation is confirmed agent see you at pm chris
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many guests customer two agent i ve booked your table agent see you at pm chris
+customer good evening i need a reservation agent sure agent what time are you looking for customer pm agent number of people customer four people agent your booking is set agent see you at pm lisa
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent table for how many customer four agent i ve booked your table agent see you at pm john
+customer hello can i book a table agent sure agent when would you like to come customer pm agent how many people customer four agent your booking is set agent see you at pm lisa
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent how many people customer five agent reservation confirmed agent see you at pm emily
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent how many guests customer four people agent your booking is set agent see you at pm john
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent how many guests customer four agent your booking is set agent see you at pm david
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent party size customer three people agent your booking is set agent see you at pm john
+customer hello can i book a table agent sure agent when would you like to come customer pm agent party size customer four people agent your reservation is confirmed agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent how many guests customer three people agent your booking is set agent see you at pm david
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent party size customer four agent your reservation is confirmed agent see you at pm lisa
+customer good evening i need a reservation agent sure agent what time would you like customer pm agent number of people customer three people agent your booking is set agent see you at pm emily
+customer hi i d like to make a reservation agent sure agent what time do you prefer customer pm agent table for how many customer three agent your booking is set agent see you at pm emily
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent party size customer two agent your reservation is confirmed agent see you at pm anna
+customer good evening i need a reservation agent sure agent what time works for you customer pm agent how many guests customer three people agent i ve booked your table agent see you at pm sarah
+customer hi i d like to make a reservation agent sure agent what time works for you customer pm agent number of people customer six agent i ve booked your table agent see you at pm lisa
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent number of people customer six agent your booking is set agent see you at pm anna
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent how many guests customer six agent i ve booked your table agent see you at pm lisa
+customer good evening i need a reservation agent sure agent what time are you looking for customer pm agent how many people customer four people agent your booking is set agent see you at pm david
+customer hi i want to reserve a table agent sure agent when would you like to come customer pm agent table for how many customer two people agent your reservation is confirmed agent see you at pm sarah
+customer hello could i make a booking agent sure agent what time works for you customer pm agent how many guests customer four agent your booking is set agent see you at pm anna
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent how many guests customer two agent reservation confirmed agent see you at pm sarah
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent party size customer three agent your table is booked agent see you at pm lisa
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent number of people customer four agent your table is booked agent see you at pm lisa
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent number of people customer two people agent your booking is set agent see you at pm emily
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent table for how many customer four agent your booking is set agent see you at pm emily
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent table for how many customer four people agent i ve booked your table agent see you at pm sarah
+customer hello could i make a booking agent sure agent when would you like to come customer pm agent table for how many customer three agent your reservation is confirmed agent see you at pm sarah
+customer hi i d like to make a reservation agent sure agent what time do you prefer customer pm agent how many people customer five agent your table is booked agent see you at pm emily
+customer hello can i book a table agent sure agent what time would you like customer pm agent party size customer three people agent your booking is set agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent table for how many customer four agent your booking is set agent see you at pm john
+customer hello could i make a booking agent sure agent when would you like to come customer pm agent how many guests customer two agent your reservation is confirmed agent see you at pm david
+customer hello can i book a table agent sure agent what time would you like customer pm agent table for how many customer four agent your table is booked agent see you at pm chris
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent how many guests customer two people agent reservation confirmed agent see you at pm sarah
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent table for how many customer three agent reservation confirmed agent see you at pm emily
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent party size customer three agent your table is booked agent see you at pm chris
+customer good evening i need a reservation agent sure agent what time works for you customer pm agent party size customer four agent your reservation is confirmed agent see you at pm john
+customer hello could i make a booking agent sure agent when would you like to come customer pm agent how many people customer two people agent i ve booked your table agent see you at pm anna
+customer hello can i book a table agent sure agent when would you like to come customer pm agent how many guests customer three agent reservation confirmed agent see you at pm chris
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent how many people customer four agent your table is booked agent see you at pm david
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent how many guests customer four people agent your reservation is confirmed agent see you at pm lisa
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many guests customer six agent your reservation is confirmed agent see you at pm david
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent number of people customer four agent reservation confirmed agent see you at pm david
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent table for how many customer three agent i ve booked your table agent see you at pm chris
+customer hello could i make a booking agent sure agent what time would you like customer pm agent party size customer two agent your reservation is confirmed agent see you at pm mike
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent table for how many customer four agent your table is booked agent see you at pm david
+customer hello can i book a table agent sure agent what time would you like customer pm agent number of people customer two people agent your booking is set agent see you at pm mike
+customer good evening i need a reservation agent sure agent what time would you like customer pm agent party size customer six agent your booking is set agent see you at pm lisa
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent how many guests customer four agent your booking is set agent see you at pm lisa
+customer good evening i need a reservation agent sure agent what time would you like customer pm agent how many people customer four people agent i ve booked your table agent see you at pm david
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent how many people customer six agent reservation confirmed agent see you at pm david
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent how many people customer four agent your booking is set agent see you at pm mike
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent party size customer three agent your table is booked agent see you at pm sarah
+customer hi i want to reserve a table agent sure agent when would you like to come customer pm agent number of people customer two agent your table is booked agent see you at pm chris
+customer hello can i book a table agent sure agent when would you like to come customer pm agent how many people customer five agent i ve booked your table agent see you at pm chris
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many people customer two agent your table is booked agent see you at pm anna
+customer hello could i make a booking agent sure agent what time would you like customer pm agent how many people customer two agent your booking is set agent see you at pm lisa
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent number of people customer six agent your booking is set agent see you at pm emily
+customer hello could i make a booking agent sure agent what time works for you customer pm agent number of people customer two agent reservation confirmed agent see you at pm john
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent how many people customer three agent reservation confirmed agent see you at pm mike
+customer good evening i need a reservation agent sure agent what time do you prefer customer pm agent number of people customer five agent i ve booked your table agent see you at pm sarah
+customer hello could i make a booking agent sure agent what time would you like customer pm agent how many guests customer two agent your booking is set agent see you at pm anna
+customer hi i want to reserve a table agent sure agent when would you like to come customer pm agent how many guests customer three people agent your table is booked agent see you at pm john
+customer hello could i make a booking agent sure agent what time would you like customer pm agent party size customer three people agent i ve booked your table agent see you at pm sarah
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent table for how many customer four people agent your reservation is confirmed agent see you at pm sarah
+customer hello could i make a booking agent sure agent what time works for you customer pm agent number of people customer four people agent your table is booked agent see you at pm chris
+customer good evening i need a reservation agent sure agent what time works for you customer pm agent how many people customer six agent your reservation is confirmed agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent number of people customer four agent your table is booked agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent table for how many customer three people agent your booking is set agent see you at pm sarah
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent number of people customer three agent your reservation is confirmed agent see you at pm david
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent how many people customer three people agent i ve booked your table agent see you at pm david
+customer good evening i need a reservation agent sure agent what time do you prefer customer pm agent number of people customer four people agent reservation confirmed agent see you at pm chris
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent number of people customer two people agent your reservation is confirmed agent see you at pm mike
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent how many guests customer five agent reservation confirmed agent see you at pm chris
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent how many guests customer four people agent your reservation is confirmed agent see you at pm emily
+customer hello can i book a table agent sure agent what time works for you customer pm agent how many people customer three people agent your table is booked agent see you at pm john
+customer hello could i make a booking agent sure agent what time do you prefer customer pm agent how many guests customer four people agent reservation confirmed agent see you at pm david
+customer hello can i book a table agent sure agent what time works for you customer pm agent how many guests customer four people agent your table is booked agent see you at pm chris
+customer hi i d like to make a reservation agent sure agent what time works for you customer pm agent table for how many customer four agent i ve booked your table agent see you at pm emily
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent how many guests customer three agent reservation confirmed agent see you at pm anna
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent how many guests customer three agent your table is booked agent see you at pm lisa
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent how many people customer three agent i ve booked your table agent see you at pm emily
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent how many guests customer two agent your table is booked agent see you at pm lisa
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent party size customer six agent your booking is set agent see you at pm mike
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent how many guests customer four people agent i ve booked your table agent see you at pm sarah
+customer good evening i need a reservation agent sure agent what time do you prefer customer pm agent how many people customer four agent your booking is set agent see you at pm david
+customer hello can i book a table agent sure agent what time works for you customer pm agent table for how many customer six agent your reservation is confirmed agent see you at pm emily
+customer hello can i book a table agent sure agent what time would you like customer pm agent table for how many customer four people agent reservation confirmed agent see you at pm emily
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent party size customer four people agent i ve booked your table agent see you at pm david
+customer hello can i book a table agent sure agent what time would you like customer pm agent table for how many customer two agent i ve booked your table agent see you at pm anna
+customer hello could i make a booking agent sure agent what time would you like customer pm agent party size customer three people agent your booking is set agent see you at pm emily
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent number of people customer five agent your booking is set agent see you at pm anna
+customer good evening i need a reservation agent sure agent what time do you prefer customer pm agent how many guests customer four people agent your booking is set agent see you at pm chris
+customer hi i want to reserve a table agent sure agent when would you like to come customer pm agent how many guests customer four people agent your table is booked agent see you at pm anna
+customer hello could i make a booking agent sure agent what time do you prefer customer pm agent how many guests customer four agent i ve booked your table agent see you at pm anna
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent table for how many customer two agent your table is booked agent see you at pm lisa
+customer hi i d like to make a reservation agent sure agent what time do you prefer customer pm agent table for how many customer six agent reservation confirmed agent see you at pm lisa
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent how many guests customer four people agent i ve booked your table agent see you at pm sarah
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent party size customer five agent i ve booked your table agent see you at pm lisa
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent how many guests customer two people agent i ve booked your table agent see you at pm anna
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent party size customer three people agent your reservation is confirmed agent see you at pm john
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many people customer four people agent your table is booked agent see you at pm mike
+customer good evening i need a reservation agent sure agent what time are you looking for customer pm agent how many guests customer three agent i ve booked your table agent see you at pm mike
+customer hello can i book a table agent sure agent what time works for you customer pm agent party size customer five agent reservation confirmed agent see you at pm john
+customer hello can i book a table agent sure agent when would you like to come customer pm agent how many people customer four people agent your table is booked agent see you at pm emily
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent how many people customer two people agent your booking is set agent see you at pm sarah
+customer hi i want to reserve a table agent sure agent when would you like to come customer pm agent number of people customer two agent your table is booked agent see you at pm sarah
+customer hello could i make a booking agent sure agent what time do you prefer customer pm agent table for how many customer two people agent your reservation is confirmed agent see you at pm john
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent table for how many customer six agent your booking is set agent see you at pm mike
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent number of people customer five agent reservation confirmed agent see you at pm mike
+customer hello could i make a booking agent sure agent when would you like to come customer pm agent table for how many customer four agent your reservation is confirmed agent see you at pm david
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent number of people customer four agent your reservation is confirmed agent see you at pm emily
+customer hello can i book a table agent sure agent what time are you looking for customer pm agent table for how many customer three people agent i ve booked your table agent see you at pm david
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent how many guests customer three people agent reservation confirmed agent see you at pm emily
+customer hello can i book a table agent sure agent when would you like to come customer pm agent table for how many customer two agent your booking is set agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent number of people customer two agent your table is booked agent see you at pm anna
+customer hi i d like to make a reservation agent sure agent what time do you prefer customer pm agent how many people customer six agent your table is booked agent see you at pm sarah
+customer good evening i need a reservation agent sure agent what time works for you customer pm agent number of people customer four people agent your booking is set agent see you at pm anna
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent how many guests customer two agent reservation confirmed agent see you at pm john
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent number of people customer two agent your booking is set agent see you at pm chris
+customer hello could i make a booking agent sure agent what time works for you customer pm agent table for how many customer two agent your booking is set agent see you at pm chris
+customer good evening i need a reservation agent sure agent what time do you prefer customer pm agent party size customer four people agent your booking is set agent see you at pm mike
+customer hi i want to reserve a table agent sure agent when would you like to come customer pm agent how many people customer two people agent your table is booked agent see you at pm sarah
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent table for how many customer two agent your reservation is confirmed agent see you at pm david
+customer hello can i book a table agent sure agent when would you like to come customer pm agent how many people customer three agent your table is booked agent see you at pm anna
+customer good evening i need a reservation agent sure agent what time would you like customer pm agent table for how many customer three people agent your booking is set agent see you at pm mike
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent table for how many customer five agent your booking is set agent see you at pm chris
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent how many guests customer four people agent reservation confirmed agent see you at pm david
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent table for how many customer five agent your table is booked agent see you at pm mike
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent party size customer two agent your reservation is confirmed agent see you at pm sarah
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent how many people customer two agent i ve booked your table agent see you at pm anna
+customer hello could i make a booking agent sure agent when would you like to come customer pm agent how many people customer four people agent your reservation is confirmed agent see you at pm john
+customer good evening i need a reservation agent sure agent what time do you prefer customer pm agent table for how many customer three people agent your reservation is confirmed agent see you at pm anna
+customer good evening i need a reservation agent sure agent what time works for you customer pm agent number of people customer four people agent your table is booked agent see you at pm david
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent table for how many customer four people agent i ve booked your table agent see you at pm emily
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent how many guests customer two people agent i ve booked your table agent see you at pm david
+customer hello can i book a table agent sure agent what time would you like customer pm agent table for how many customer four people agent your booking is set agent see you at pm emily
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent party size customer four people agent your booking is set agent see you at pm david
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent table for how many customer two people agent your table is booked agent see you at pm chris
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many guests customer two people agent your table is booked agent see you at pm lisa
+customer hello could i make a booking agent sure agent when would you like to come customer pm agent how many guests customer six agent reservation confirmed agent see you at pm david
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent party size customer four agent reservation confirmed agent see you at pm sarah
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent how many people customer five agent your booking is set agent see you at pm chris
+customer good evening i need a reservation agent sure agent what time are you looking for customer pm agent party size customer four agent your table is booked agent see you at pm john
+customer good evening i need a reservation agent sure agent what time would you like customer pm agent how many guests customer three people agent reservation confirmed agent see you at pm chris
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent how many guests customer four people agent your reservation is confirmed agent see you at pm david
+customer hello could i make a booking agent sure agent what time works for you customer pm agent how many guests customer two agent your booking is set agent see you at pm sarah
+customer hello could i make a booking agent sure agent what time are you looking for customer pm agent how many guests customer three people agent reservation confirmed agent see you at pm john
+customer good evening i need a reservation agent sure agent what time do you prefer customer pm agent number of people customer five agent your booking is set agent see you at pm lisa
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent table for how many customer three agent your reservation is confirmed agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent party size customer four agent your booking is set agent see you at pm david
+customer good evening i need a reservation agent sure agent what time works for you customer pm agent how many people customer four people agent i ve booked your table agent see you at pm chris
+customer hello could i make a booking agent sure agent what time would you like customer pm agent how many people customer two people agent your booking is set agent see you at pm anna
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent number of people customer three people agent your booking is set agent see you at pm sarah
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many people customer six agent reservation confirmed agent see you at pm sarah
+customer hi i d like to make a reservation agent sure agent what time works for you customer pm agent table for how many customer three people agent i ve booked your table agent see you at pm mike
+customer good evening i need a reservation agent sure agent what time are you looking for customer pm agent how many people customer two agent your table is booked agent see you at pm david
+customer good evening i need a reservation agent sure agent what time are you looking for customer pm agent table for how many customer three people agent i ve booked your table agent see you at pm chris
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent party size customer four agent your table is booked agent see you at pm mike
+customer hello could i make a booking agent sure agent what time works for you customer pm agent table for how many customer two agent your table is booked agent see you at pm anna
+customer hello could i make a booking agent sure agent what time works for you customer pm agent party size customer six agent your booking is set agent see you at pm lisa
+customer hello could i make a booking agent sure agent what time do you prefer customer pm agent table for how many customer three people agent reservation confirmed agent see you at pm lisa
+customer hi i want to reserve a table agent sure agent when would you like to come customer pm agent how many guests customer four agent your booking is set agent see you at pm sarah
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent how many guests customer two people agent your table is booked agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent how many people customer two agent reservation confirmed agent see you at pm john
+customer hi i want to reserve a table agent sure agent when would you like to come customer pm agent party size customer three people agent i ve booked your table agent see you at pm anna
+customer hello could i make a booking agent sure agent what time would you like customer pm agent table for how many customer six agent reservation confirmed agent see you at pm sarah
+customer hello could i make a booking agent sure agent what time would you like customer pm agent how many people customer four people agent i ve booked your table agent see you at pm john
+customer hi i d like to make a reservation agent sure agent what time works for you customer pm agent party size customer two agent your table is booked agent see you at pm mike
+customer hi i d like to make a reservation agent sure agent what time works for you customer pm agent party size customer two people agent your reservation is confirmed agent see you at pm emily
+customer good evening i need a reservation agent sure agent what time would you like customer pm agent how many people customer four agent your booking is set agent see you at pm john
+customer hi i d like to make a reservation agent sure agent what time works for you customer pm agent how many people customer two agent i ve booked your table agent see you at pm sarah
+customer good evening i need a reservation agent sure agent what time would you like customer pm agent party size customer three agent your reservation is confirmed agent see you at pm emily
+customer hi i d like to make a reservation agent sure agent what time do you prefer customer pm agent party size customer two people agent your table is booked agent see you at pm emily
+customer good evening i need a reservation agent sure agent what time works for you customer pm agent table for how many customer four people agent i ve booked your table agent see you at pm mike
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent number of people customer four agent reservation confirmed agent see you at pm david
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent how many guests customer five agent i ve booked your table agent see you at pm mike
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent party size customer two agent your reservation is confirmed agent see you at pm chris
+customer hello could i make a booking agent sure agent what time are you looking for customer pm agent how many people customer five agent your booking is set agent see you at pm chris
+customer hello could i make a booking agent sure agent what time do you prefer customer pm agent how many guests customer two people agent reservation confirmed agent see you at pm david
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent how many guests customer five agent your booking is set agent see you at pm john
+customer hello could i make a booking agent sure agent what time works for you customer pm agent how many guests customer two agent your table is booked agent see you at pm lisa
+customer hi i d like to make a reservation agent sure agent what time works for you customer pm agent party size customer six agent reservation confirmed agent see you at pm david
+customer good evening i need a reservation agent sure agent what time are you looking for customer pm agent party size customer three agent your booking is set agent see you at pm david
+customer hi i d like to make a reservation agent sure agent what time do you prefer customer pm agent party size customer three people agent your reservation is confirmed agent see you at pm anna
+customer hello could i make a booking agent sure agent what time are you looking for customer pm agent party size customer five agent i ve booked your table agent see you at pm anna
+customer good evening i need a reservation agent sure agent what time do you prefer customer pm agent party size customer two agent reservation confirmed agent see you at pm david
+customer hello could i make a booking agent sure agent what time are you looking for customer pm agent how many guests customer four agent i ve booked your table agent see you at pm sarah
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent number of people customer two people agent reservation confirmed agent see you at pm john
+customer hello could i make a booking agent sure agent what time are you looking for customer pm agent party size customer four agent i ve booked your table agent see you at pm chris
+customer hello can i book a table agent sure agent when would you like to come customer pm agent number of people customer five agent your booking is set agent see you at pm chris
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent how many people customer three people agent i ve booked your table agent see you at pm chris
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent table for how many customer five agent your table is booked agent see you at pm john
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent table for how many customer three people agent your booking is set agent see you at pm sarah
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent how many guests customer three agent i ve booked your table agent see you at pm lisa
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent number of people customer two agent your reservation is confirmed agent see you at pm sarah
+customer hi i d like to make a reservation agent sure agent what time do you prefer customer pm agent how many people customer three agent i ve booked your table agent see you at pm lisa
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many people customer three agent i ve booked your table agent see you at pm mike
+customer hello could i make a booking agent sure agent what time do you prefer customer pm agent party size customer five agent your booking is set agent see you at pm anna
+customer hello can i book a table agent sure agent what time works for you customer pm agent how many guests customer four agent reservation confirmed agent see you at pm emily
+customer good evening i need a reservation agent sure agent what time works for you customer pm agent how many guests customer two agent i ve booked your table agent see you at pm david
+customer hello could i make a booking agent sure agent what time works for you customer pm agent number of people customer four agent your booking is set agent see you at pm sarah
+customer hello can i book a table agent sure agent when would you like to come customer pm agent how many guests customer six agent i ve booked your table agent see you at pm john
+customer hello could i make a booking agent sure agent what time would you like customer pm agent party size customer four people agent i ve booked your table agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent party size customer three people agent your booking is set agent see you at pm emily
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent number of people customer two agent your booking is set agent see you at pm david
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent how many people customer two people agent your booking is set agent see you at pm sarah
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent table for how many customer three agent i ve booked your table agent see you at pm john
+customer hello can i book a table agent sure agent what time works for you customer pm agent how many people customer two people agent reservation confirmed agent see you at pm emily
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent how many people customer two agent reservation confirmed agent see you at pm mike
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent number of people customer three agent i ve booked your table agent see you at pm sarah
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent number of people customer three agent reservation confirmed agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time do you prefer customer pm agent how many people customer five agent your booking is set agent see you at pm chris
+customer hi i d like to make a reservation agent sure agent what time works for you customer pm agent number of people customer two people agent i ve booked your table agent see you at pm anna
+customer hi i d like to make a reservation agent sure agent what time are you looking for customer pm agent party size customer three people agent your table is booked agent see you at pm emily
+customer hello can i book a table agent sure agent what time works for you customer pm agent how many guests customer three people agent your table is booked agent see you at pm david
+customer good evening i need a reservation agent sure agent what time do you prefer customer pm agent number of people customer six agent your reservation is confirmed agent see you at pm john
+customer hi i d like to make a reservation agent sure agent what time would you like customer pm agent party size customer three agent your booking is set agent see you at pm david
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent table for how many customer four agent your booking is set agent see you at pm david
+customer good evening i need a reservation agent sure agent when would you like to come customer pm agent how many guests customer six agent your table is booked agent see you at pm chris
+customer good evening i need a reservation agent sure agent what time would you like customer pm agent party size customer two agent your reservation is confirmed agent see you at pm emily
+customer hello could i make a booking agent sure agent when would you like to come customer pm agent how many people customer two people agent your booking is set agent see you at pm emily
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent number of people customer two agent your table is booked agent see you at pm emily
+customer hi i want to reserve a table agent sure agent what time would you like customer pm agent how many people customer four people agent reservation confirmed agent see you at pm john
+customer hello could i make a booking agent sure agent what time are you looking for customer pm agent how many people customer four people agent your table is booked agent see you at pm chris
+customer hi i d like to make a reservation agent sure agent when would you like to come customer pm agent table for how many customer four agent i ve booked your table agent see you at pm john
+customer good evening i need a reservation agent sure agent what time are you looking for customer pm agent table for how many customer two people agent i ve booked your table agent see you at pm anna
+customer hi i want to reserve a table agent sure agent what time works for you customer pm agent number of people customer six agent your booking is set agent see you at pm chris
+customer hi i want to reserve a table agent sure agent what time are you looking for customer pm agent table for how many customer two agent reservation confirmed agent see you at pm lisa
+customer hello can i book a table agent sure agent what time do you prefer customer pm agent table for how many customer six agent your reservation is confirmed agent see you at pm chris
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer one customer do you accommodate dietary restrictions agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two people customer do you have outdoor seating agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer do you accommodate dietary restrictions agent yes we have availability agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer one customer do you have outdoor seating agent yes we have a table agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four people customer is the restaurant wheelchair accessible agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent sorry that time is booked agent pm works if that helps customer that works agent how many people customer a party of two agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer six customer do you have outdoor seating agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer do you accommodate dietary restrictions agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer five customer do you have outdoor seating agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer is there parking available agent yes we have availability agent your table is booked
+customer hi i need a reservation agent what time customer pm agent that slot isn t available agent we have pm available customer that works agent how many people customer five agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent unfortunately we re full agent we have pm available customer that works agent how many people customer six agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer do you accommodate dietary restrictions agent that time works agent your table is booked
+customer hi i need a reservation agent what time customer pm agent we re booked at that time agent how about pm customer that works agent how many people customer one agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer is there parking available agent yes we have a table agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two people customer is the restaurant wheelchair accessible agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four people customer is the restaurant wheelchair accessible agent sure that s available agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer five customer is there parking available agent that time works agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent could you try another time agent pm is open customer that works agent how many people customer five agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three customer is there parking available agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two customer is the restaurant wheelchair accessible agent that time works agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of two customer is the restaurant wheelchair accessible agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer six customer can we have a quiet table agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer one customer do you have outdoor seating agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer five customer is the restaurant wheelchair accessible agent that time works agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four customer is there parking available agent yes we have a table agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer is the restaurant wheelchair accessible agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent that slot isn t available agent pm works if that helps customer that works agent how many people customer five agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent could you try another time agent how about pm customer that works agent how many people customer a party of two agent reservation confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer six customer do you have outdoor seating agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two customer can we have a quiet table agent that time works agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent that slot isn t available agent we have pm available customer that works agent how many people customer five agent reservation confirmed
+customer hi i need a reservation agent what time customer pm agent that slot isn t available agent pm is open customer that works agent how many people customer four agent reservation confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer do you have outdoor seating agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer six customer is the restaurant wheelchair accessible agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent we re booked at that time agent we have pm available customer that works agent how many people customer six agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer six customer do you accommodate dietary restrictions agent yes we have a table agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer is the restaurant wheelchair accessible agent i can accommodate that agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four customer is the restaurant wheelchair accessible agent yes we have availability agent your table is booked
+customer hi i need a reservation agent what time customer pm agent sorry that time is booked agent pm works if that helps customer that works agent how many people customer two agent reservation confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three customer can we have a quiet table agent yes we have availability agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three customer is there parking available agent that time works agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four customer can we have a quiet table agent i can accommodate that agent your table is booked
+customer hi i need a reservation agent what time customer pm agent that slot isn t available agent how about pm customer that works agent how many people customer four people agent reservation confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two people customer is the restaurant wheelchair accessible agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of two customer is the restaurant wheelchair accessible agent i can accommodate that agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer can we have a quiet table agent yes we have availability agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer six customer is the restaurant wheelchair accessible agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two people customer do you have outdoor seating agent yes we have availability agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer do you have outdoor seating agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent that slot isn t available agent pm is open customer that works agent how many people customer four agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent we re booked at that time agent pm works if that helps customer that works agent how many people customer three agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four customer do you accommodate dietary restrictions agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two customer do you accommodate dietary restrictions agent yes we have a table agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer one customer do you have outdoor seating agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer six customer do you accommodate dietary restrictions agent sure that s available agent your table is booked
+customer hi i need a reservation agent what time customer pm agent unfortunately we re full agent we have pm available customer that works agent how many people customer five agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer do you have outdoor seating agent yes we have availability agent your table is booked
+customer hi i need a reservation agent what time customer pm agent could you try another time agent we have pm available customer that works agent how many people customer six agent reservation confirmed
+customer hi i need a reservation agent what time customer pm agent unfortunately we re full agent we have pm available customer that works agent how many people customer four people agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three customer can we have a quiet table agent that time works agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three customer do you have outdoor seating agent yes we have a table agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four people customer is the restaurant wheelchair accessible agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four people customer do you have outdoor seating agent sure that s available agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer is the restaurant wheelchair accessible agent yes we have availability agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer six customer can we have a quiet table agent sure that s available agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent we re booked at that time agent pm works if that helps customer that works agent how many people customer four agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four customer can we have a quiet table agent that time works agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four customer is there parking available agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three customer do you have outdoor seating agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer can we have a quiet table agent that time works agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of two customer is there parking available agent that time works agent your table is booked
+customer hi i need a reservation agent what time customer pm agent could you try another time agent how about pm customer that works agent how many people customer a party of four agent reservation confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer one customer is the restaurant wheelchair accessible agent yes we have a table agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two customer do you have outdoor seating agent yes we have a table agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer do you accommodate dietary restrictions agent sure that s available agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two customer do you accommodate dietary restrictions agent sure that s available agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three customer is the restaurant wheelchair accessible agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer five customer do you have outdoor seating agent sure that s available agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of two customer is there parking available agent that time works agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer five customer is there parking available agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer is there parking available agent yes we have a table agent your table is booked
+customer hi i need a reservation agent what time customer pm agent unfortunately we re full agent pm works if that helps customer that works agent how many people customer one agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two people customer is there parking available agent i can accommodate that agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of two customer is there parking available agent yes we have availability agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer do you have outdoor seating agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer one customer is there parking available agent i can accommodate that agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two people customer is the restaurant wheelchair accessible agent that time works agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four people customer do you accommodate dietary restrictions agent sure that s available agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four people customer do you accommodate dietary restrictions agent that time works agent your table is booked
+customer hi i need a reservation agent what time customer pm agent unfortunately we re full agent how about pm customer that works agent how many people customer two people agent reservation confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer five customer is the restaurant wheelchair accessible agent sure that s available agent your table is booked
+customer hi i need a reservation agent what time customer pm agent that slot isn t available agent we have pm available customer that works agent how many people customer one agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent that slot isn t available agent pm is open customer that works agent how many people customer two agent reservation confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hi i need a reservation agent what time customer pm agent that slot isn t available agent how about pm customer that works agent how many people customer a party of four agent reservation confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer is the restaurant wheelchair accessible agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer can we have a quiet table agent sure that s available agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer one agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of four agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer six agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer four people agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer is there parking available agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of two customer do you accommodate dietary restrictions agent yes we have a table agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of four customer do you accommodate dietary restrictions agent i can accommodate that agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer three people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer a party of two customer is the restaurant wheelchair accessible agent yes we have availability agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer three people customer is the restaurant wheelchair accessible agent yes we have availability agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two customer can we have a quiet table agent that time works agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four people customer do you accommodate dietary restrictions agent yes we have a table agent your table is booked
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer a party of two agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer five agent your reservation is confirmed
+customer hi i d like to make a reservation agent sure what time customer pm agent how many people customer two people agent your reservation is confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two customer do you have outdoor seating agent that time works agent your table is booked
+customer hello can i book a table agent of course what time customer pm agent how many guests customer four customer is there parking available agent i can accommodate that agent your table is booked
+customer hi i need a reservation agent what time customer pm agent unfortunately we re full agent pm works if that helps customer that works agent how many people customer five agent reservation confirmed
+customer hello can i book a table agent of course what time customer pm agent how many guests customer two people customer is the restaurant wheelchair accessible agent that time works agent your table is booked

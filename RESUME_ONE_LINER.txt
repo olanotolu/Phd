@@ -1,0 +1,2 @@
+Developed TLM-Anomaly Radar: an energy-based anomaly detection system using Thermodynamic Language Models to identify hallucinations in LLM outputs. Built end-to-end pipeline (training, evaluation, web demo), achieved 56% accuracy on benchmark dataset, created interactive Gradio demo with visualizations.
+
